@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/songeunyou/songeunyou/blob/master/header.svg" width="140" height="140"></a>
+<a href="#"><img id="parrot" src="https://github.com/songeunyou/songeunyou/blob/master/header.svg" width="140" height="140" onClick="showChicken()" ></a>
 
 ### Hi there 👋
 
