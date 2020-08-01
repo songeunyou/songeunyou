@@ -6,9 +6,9 @@
 					0% {
 						transform: translate(0px);
 					}
-          50% {
-            transform: translate(-50px);
-          }
+					  50% {
+					    transform: translate(-50px);
+					  }
 					100% {
 						transform: rotate(0px);
 					}
@@ -19,13 +19,21 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 400px;
-          height: 400px;
-          background: #f5f0ed;
-          border-radius: 30px;
+					width: 360px;
+					height: 360px;
+					background: #f5f0ed;
+					border-radius: 30px;
+				}
+				.headshot {
+					width: 260px;
+					height: 260px;
+					mix-blend-mode: multiply;
+					animation: bounce 2s ease-in-out;
 				}
 			</style>
-			<div class="container"/>
+			<div class="container">
+				<img src="./headshot.png" class="headshot"/>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
