@@ -4,13 +4,13 @@
 			<style>
 				@keyframes bounce {
 					0% {
-						transform: translate(0px);
+						transform: translateY(0px);
 					}
 					  50% {
-					    transform: translate(-50px);
+					    transform: translateY(-50px);
 					  }
 					100% {
-						transform: rotate(0px);
+						transform: translateY(0px);
 					}
 				}
 				.container {
@@ -28,7 +28,7 @@
 					width: 260px;
 					height: 260px;
 					mix-blend-mode: multiply;
-					animation: bounce 2s ease-in-out;
+					animation: bounce 2s ease-in-out infinite;
 				}
 			</style>
 			<div class="container">
