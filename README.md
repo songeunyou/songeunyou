@@ -1,4 +1,4 @@
-<img src="https://github.com/songeunyou/songeunyou/blob/master/header.svg" width="200" height="200">
+<img src="https://github.com/songeunyou/songeunyou/blob/master/header.svg" width="140" height="140">
 
 ### Hi there 👋
 
