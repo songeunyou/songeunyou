@@ -27,7 +27,7 @@
 				.headshot {
 					width: 260px;
 					height: 260px;
-					mix-blend-mode: multiply;
+<!-- 					mix-blend-mode: multiply; -->
 					animation: bounce 2s ease-in-out infinite;
 				}
 			</style>
