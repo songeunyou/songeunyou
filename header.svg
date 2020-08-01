@@ -7,7 +7,7 @@
 						transform: translateY(10px);
 					}
 					  50% {
-					    transform: translateY(-40px);
+					    transform: translateY(-10px);
 					  }
 					100% {
 						transform: translateY(10px);
@@ -19,17 +19,19 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 300px;
-					height: 300px;
+					width: 260px;
+					height: 260px;
 					background: #f5f0ed;
 					border-radius: 30px;
 				}
 				.headshot {
-					font-size: 40px;
-					width: 260px;
-					height: 260px;
+					font-size: 80px;
+					width: 80px;
+					height: 80px;
+					text-align: center;
+					vertical-align: center;
 					mix-blend-mode: multiply;
-					animation: bounce 2s ease-in-out infinite;
+					animation: bounce 1s ease-in-out infinite;
 				}
 			</style>
 			<div class="container">
