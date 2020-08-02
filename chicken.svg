@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 100% 100%" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes bounce {
+					0% {
+						transform: translateY(0px);
+					}
+					  50% {
+					    transform: translateY(-15px);
+					  }
+					100% {
+						transform: translateY(0px);
+					}
+				}
+				.container {
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 200px;
+					max-height: 200px;
+					background: #f5f0ed;
+					border-radius: 25px;
+				}
+				.headshot {
+					font-size: 80px;
+					width: 80px;
+					height: 80px;
+					text-align: center;
+					vertical-align: center;
+					mix-blend-mode: multiply;
+					animation: bounce 1s ease-in-out infinite;
+				}
+			</style>
+			<div class="container">
+<!-- 				<img src="headshot.png" class="headshot"/> -->
+				<p class="headshot">🍗</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
