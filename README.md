@@ -8,7 +8,7 @@ I'm currently interested in digital privacy and security, how people develop cur
 <details>
   <summary>What the Green 🌱 on my Github Means</summary>
   
-  - 🇺🇸 I'm working on a news aggregator that collects articles from right-leaning and left-leaning news sites and shows a side by side comparison of how they manipulate the "facts" of the same topic
+  - 🏔 I'm working on a platform to help people discover, develop, or gain insight into their passions. Please [reach out](https://m.me/songyouu) if you have any thoughts on this or would like to bounce around ideas, I get some of my best breakthroughs from discussions with people!
   
   - 📑 I'm uploading an essay
   
@@ -17,14 +17,6 @@ I'm currently interested in digital privacy and security, how people develop cur
 
 <!--
 **songeunyou/songeunyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->Currently getting into Twitter, writing essays, & seeking out unpopular opinions ✨
-<details>
-  <summary>Some ?? thoughts I might explore in the future</summary>
-  
-  - 📈 What if your friends were stonks?
-  
-  - 👩🏻‍💻 Asian captcha... can your friends <i>really</i> tell you apart?
-</details>
 
 Here are some ideas to get you started:
 
