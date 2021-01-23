@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm an <code>illustrator</code>, <code>designer</code>, and <code>developer</code> interested in making mundane things beautiful. 
+I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
 
 I'm currently interested in digital privacy and security, how people develop curiosity, and designs that deal with high information density (documentation, dashboards... Stripe 👀).
 <details>
@@ -10,9 +10,9 @@ I'm currently interested in digital privacy and security, how people develop cur
   
   - 🏔 I'm working on a platform to help people discover, develop, or gain insight into their passions. Please [reach out](https://m.me/songyouu) if you have any thoughts on this or would like to bounce around ideas, I get some of my best breakthroughs from discussions with people!
   
-  - 📑 I'm uploading an essay
+  - 📑 I'm contributing to a scholarship application site for Toronto non-profit Merit Award.
   
-  - 🦜 I'm making css changes to my bouncin' parrot
+  - 🌈 I'm recording new things I've learned about frontend. (I have a repo for my notes, planning to publish by the end of 2021 😁)
 </details>
 
 <!--
