@@ -1,6 +1,6 @@
-<img src="https://github.com/songeunyou/songeunyou/blob/master/header.svg" width="140" height="140">
+<img src="https://github.com/songeunyou/songeunyou/blob/master/iy.png" width="200" height="260">
 
-### Hi there 👋
+### Hi there ✤
 
 I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
 
