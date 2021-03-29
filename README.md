@@ -6,13 +6,11 @@ I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code
 
 I'm currently interested in digital privacy and security, how people develop curiosity, and designs that deal with high information density (documentation, dashboards... Stripe 👀).
 <details>
-  <summary>What the Green 🌱 on my Github Means</summary>
+  <summary>What the Green 🟢 on my Github Means</summary>
   
-  - 🏔 I'm working on a platform to help people discover, develop, or gain insight into their passions. Please [reach out](https://m.me/songyouu) if you have any thoughts on this or would like to bounce around ideas, I get some of my best breakthroughs from discussions with people!
+  - ☁️ I'm working on some creative coding, whether it be with matter.js or with processing
   
-  - 📑 I'm contributing to a scholarship application site for Toronto non-profit Merit Award.
-  
-  - 🌈 I'm recording new things I've learned about frontend. (I have a repo for my notes, planning to publish by the end of 2021 😁)
+  - 🌈 Freelancing; building custom sites for some awesome teams
 </details>
 
 <!--
