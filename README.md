@@ -4,13 +4,18 @@
 
 I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
 
-I'm currently interested in digital privacy and security, how people develop curiosity, and designs that deal with high information density (documentation, dashboards... Stripe 👀).
+Currently, I'm building various creation-centered tools, whether they help people collect and organize inspiration, help generate portions of the final product, or provide new mediums for people to create and play with.
+
+Some great examples of these from other talented folks include <a href="https://mymind.com" target="blank">my mind</a> and <a href="https://github.com/afiaka87/clip-guided-diffusion" target="blank">clip guided diffusion</a>.
+
 <details>
   <summary>What the Green 🟢 on my Github Means</summary>
   
-  - ☁️ I'm working on some creative coding, whether it be with matter.js or with processing
+  - 🤹🏼 Handpicked: a content feed that displays posts you've already saved on other sites so that you can be re-inspired by your favourites.
   
-  - 🌈 Freelancing; building custom sites for some awesome teams
+  - ☁️ Creative coding: right now I'm exploring Processing, inspired by <a href="https://twitter.com/beesandbombs" target="blank">dave</a>
+  
+  - 🌈 Freelancing: building custom sites for some awesome teams
 </details>
 
 <!--
