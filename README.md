@@ -11,11 +11,11 @@ Some great examples of these from other talented folks include <a href="https://
 <details>
   <summary>What the Green 🟢 on my Github Means</summary>
   
-  - 🤹🏼 Handpicked: a content feed that displays posts you've already saved on other sites so that you can be re-inspired by your favourites.
+  - 🌈 **Instabase:** working with a very talented and lovely team to help businesses turn their unstructured data to structured data :)
   
-  - ☁️ Creative coding: right now I'm exploring Processing, inspired by <a href="https://twitter.com/beesandbombs" target="blank">dave</a>
+  - 🤹🏼 **Handpicked:** a content feed that displays posts you've already saved on other sites so that you can be re-inspired by your favourites.
   
-  - 🌈 Freelancing: building custom sites for some awesome teams
+  - ☁️ **Creative coding:** I'm exploring Processing, inspired by <a href="https://twitter.com/beesandbombs" target="blank">dave</a>
 </details>
 
 <!--
