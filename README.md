@@ -4,19 +4,7 @@
 
 I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
 
-Currently, I'm building various creation-centered tools, whether they help people collect and organize inspiration, help generate portions of the final product, or provide new mediums for people to create and play with.
-
-Some great examples of these from other talented folks include <a href="https://mymind.com" target="blank">my mind</a> and <a href="https://github.com/afiaka87/clip-guided-diffusion" target="blank">clip guided diffusion</a>.
-
-<details>
-  <summary>What the Green 🟢 on my Github Means</summary>
-  
-  - 🌈 **Instabase:** working with a very talented and lovely team to help businesses turn their unstructured data to structured data :)
-  
-  - 🤹🏼 **Handpicked:** a content feed that displays posts you've already saved on other sites so that you can be re-inspired by your favourites.
-  
-  - ☁️ **Creative coding:** I'm exploring Processing, inspired by <a href="https://twitter.com/beesandbombs" target="blank">dave</a>
-</details>
+Currently, I'm taking a few months to explore different interests, spending time painting, designing, and coding up fun interactions :)
 
 <!--
 **songeunyou/songeunyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
