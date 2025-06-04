@@ -6,7 +6,7 @@ I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code
 
 From Aug 2023-Apr 2025 I exclusively focused on getting better at concept art and illustration.
 
-Currently I'm at Exa.ai in San Francisco as a design engineer.
+Currently I'm at [Exa](https://exa.ai/) in San Francisco as a design engineer.
 
 <!--
 **songeunyou/songeunyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
