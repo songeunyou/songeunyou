@@ -4,7 +4,9 @@
 
 I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
 
-Currently, I'm taking a few months to explore different interests, spending time painting, designing, and coding up fun interactions :)
+From Aug 2023-Apr 2025 I exclusively focused on getting better at concept art and illustration.
+
+Currently I'm at Exa.ai in San Francisco as a design engineer.
 
 <!--
 **songeunyou/songeunyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
