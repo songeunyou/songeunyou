@@ -2,9 +2,9 @@
 
 ### Hi there ✤
 
-I'm a <code>developer</code>, <code>designer</code>, and <code>illustrator</code> interested in making mundane things beautiful. 
+I'm a <code>designer</code> and <code>illustrator</code> interested in making mundane things beautiful. 
 
-From Aug 2023-Apr 2025 I exclusively focused on getting better at concept art and illustration.
+From Aug '23-Apr '25 I focused on getting better at concept art and illustration. You can see some of my work on twitter [@songyou](https://x.com/songyou)
 
 Currently I'm at [Exa](https://exa.ai/) in San Francisco as a design engineer.
 
